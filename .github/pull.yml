@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: master
+    upstream: epgshare01/share01    # change `wei` to the owner of upstream repo
+    mergeMethod: hardreset
