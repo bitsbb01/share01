@@ -1,0 +1,17 @@
+name: epgupdate
+
+on:
+  workflow_dispatch:
+  # Run 6 Hours after https://github.com/bitsbb01/iptvcat-scrapper
+  # 12.10 UTC Time, 06.10 Central Time
+  schedule:
+    - cron: "10 12 * * *"
+  push:
+    branches:
+    - master
+    - main
+    version: "1"
+rules:
+  - base: master
+    upstream: epgshare01/share01    # change `wei` to the owner of upstream repo
+    mergeMethod: hardreset
