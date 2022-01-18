@@ -1,4 +1,4 @@
-202111180123
+202201180127
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -3345,7 +3345,7 @@ Revenue.Frontier.(WUEO-LD4).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD6).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD7).Atlanta,.GA.us
 REVN.TV.us
-Rewind.us
+Rewind.TV.East.(WPIX-DT4).us
 RFD-TV.(K21LC).Cortez,.CO.us
 Right.Now.TV.(KCTU-DT8).Wichita,.KS.us
 Right.Now.TV.(KPDR-DT2).Salt.Lake.City,.Utah.us
@@ -3382,6 +3382,7 @@ South.Carolina.Channel.(WNTV-DT2).Greenville,.SC.us
 South.Carolina.Channel.(WRET-DT2).Upstate.SC.us
 South.Carolina.Channel.(WRJA-DT2).South.Carolina.us
 South.Carolina.Channel.(WRLK-DT2).Columbia,.SC.us
+SportsGrid.(WKRN-TV2).us
 SSTN.(KATA).Dallas,.TX.us
 SSTN.(KJJM-LD1).Dallas,.TX.us
 SSTN.(KKYK).Little.Rock,.AR.us
